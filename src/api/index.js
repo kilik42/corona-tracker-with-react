@@ -11,7 +11,7 @@ const url = 'https://covid19.mathdro.id/api';
                 // recovered: data.recovered,
                 // deaths:  data.deaths,
                 // lastUpdate: data.lastUpdate,
-             confirmed,
+            confirmed,
             recovered,
             deaths,
             lastUpdate,
